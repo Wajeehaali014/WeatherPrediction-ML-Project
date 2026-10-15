@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn==1.7.2
+imbalanced-learn
+tensorflow
+ipywidgets
+joblib
+jupyter
