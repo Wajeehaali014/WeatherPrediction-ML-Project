@@ -1,4 +1,4 @@
-# 🌦️ Smart Weather Predictor — KNN vs Logistic Regression vs ANN
+# 🌦️ Weather Predictor — KNN vs Logistic Regression vs ANN
 
 Machine Learning term project (CS-324, Complex Engineering Problem) — Department of Computer & Information Systems Engineering, TE Batch 2022, Spring 2025.
 
